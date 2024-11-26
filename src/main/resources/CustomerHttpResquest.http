@@ -1,0 +1,9 @@
+
+### Get request to customer
+GET http://localhost:8080/customers?lastName=Mazy
+
+### Put request to customer
+PUT http://localhost:8080/customers/1
+
+### Get request to customer
+GET http://localhost:8080/customers/age/average
